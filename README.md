@@ -8,27 +8,6 @@ A menu with a css-only marquee hover effect based on [Francesco Zagami's Dribbbl
 
 [Demo](http://tympanus.net/Development/CSSMarqueeMenu/)
 
-
-## Installation
-
-Install dependencies:
-
-```
-npm install
-```
-
-Compile the code for development and start a local server:
-
-```
-npm start
-```
-
-Create the build:
-
-```
-npm run build
-```
-
 ## Credits
 
 - Images by [Frankie Cordoba AKA Foulster](https://www.instagram.com/byfoul/)
